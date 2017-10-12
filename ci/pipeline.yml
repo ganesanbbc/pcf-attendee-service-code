@@ -4,8 +4,6 @@ resources:
   type: git
   source:
     uri: https://github.com/ganesanbbc/pcf-attendee-service-code
-    username: ganesanbbc
-    password: {{git-password}}
     branch: master
 
 #jobs:
