@@ -3,7 +3,7 @@ resources:
 - name: attendee-service-source
   type: git
   source:
-    uri: https://github.com/pivotal-enablement/pcf-attendee-service-code
+    uri: https://github.com/ganesanbbc/pcf-attendee-service-code
     username: ganesanbbc
     password: {{git-password}}
     branch: master
